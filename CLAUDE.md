@@ -15,8 +15,8 @@ Owner: Zakaria (English is not his first language — talk to him in simple Engl
   auto-deployment ON) pulls `deploy` into `public_html`. Live in ~2 minutes.
   Do NOT also run `./deploy.sh` (manual fallback only, if Actions is down) — two pushes at
   once make Hostinger's clone fail ("shallow file has changed").
-- Hostinger site: currently the test address https://olive-partridge-884320.hostingersite.com
-  (US server). relationshipgoals.store still points to the old Horizons builder site until moved.
+- Hostinger site: https://relationshipgoals.store (hPanel website was created as olive-partridge-884320.hostingersite.com)
+  (US server). Domain moved from the old Horizons builder site on 2026-10-22; the builder site now lives at green-cattle-613978.hostingersite.com (unused).
 
 ## Commands (run from repo root)
 - `npm install`
