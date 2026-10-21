@@ -1,0 +1,6 @@
+import { useCookieBanner } from '@/hooks/use-cookie-banner';
+export function CookieBanner() {
+ const b = useCookieBanner();
+ if (!b.isOpen) return null;
+ return <section className="cookie-banner" role="dialog" aria-label="Cookie preferences"><h2>A little note on cookies</h2><p>We use essential cookies to run the site. You choose whether to allow optional cookies.</p>{b.isCustomizing && <fieldset><legend>Optional cookies</legend>{([{ key: 'analytics', name: 'Analytics', text: 'Visitor statistics for this site.' }, { key: 'marketing', name: 'Marketing', text: 'Ad measurement and personalized ads.' }, { key: 'platformAnalytics', name: 'Platform analytics', text: 'Hostinger uses Amplitude to improve the platform and checkout without directly identifying you.' }] as const).map(c => <label key={c.key}><input type="checkbox" checked={b.choices[c.key]} onChange={e => b.setChoice(c.key, e.target.checked)}/><span><strong>{c.name}</strong><small>{c.text}</small></span></label>)}</fieldset>}<div className="cookie-actions"><button onClick={b.rejectOptional}>Reject optional</button><button onClick={b.acceptAll}>Accept all</button><button onClick={b.isCustomizing ? b.saveChoices : b.customize}>{b.isCustomizing ? 'Save choices' : 'Customize'}</button></div></section>;
+}
