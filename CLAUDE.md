@@ -10,9 +10,13 @@ Owner: Zakaria (English is not his first language — talk to him in simple Engl
   Every page is built to plain HTML in `dist/apps/web/client` — no Node server needed.
 - Hosting: Hostinger web hosting (Apache). `apps/web/public/.htaccess` handles
   clean URLs (no trailing slash), HTTPS and 404s.
-- Deploy: commit + push to `main`, then run `./deploy.sh` — it builds and force-pushes
-  the static site to the `deploy` branch. Hostinger Git pulls `deploy` into `public_html`.
-  (`.github/workflows/deploy.yml` does the same automatically if GitHub Actions gets enabled.)
+- Deploy: just commit + push to `main`. GitHub Action (`.github/workflows/deploy.yml`) builds
+  and pushes the static site to the `deploy` branch → Hostinger (hPanel → Advanced → Git,
+  auto-deployment ON) pulls `deploy` into `public_html`. Live in ~2 minutes.
+  Do NOT also run `./deploy.sh` (manual fallback only, if Actions is down) — two pushes at
+  once make Hostinger's clone fail ("shallow file has changed").
+- Hostinger site: currently the test address https://olive-partridge-884320.hostingersite.com
+  (US server). relationshipgoals.store still points to the old Horizons builder site until moved.
 
 ## Commands (run from repo root)
 - `npm install`
