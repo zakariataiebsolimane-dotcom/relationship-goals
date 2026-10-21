@@ -36,11 +36,11 @@ const A = '#'; // Replace with your Amazon affiliate URL
 
 export const guides: Guide[] = [
 	{
-		"title": "Christmas Gifts for Boyfriend: 15 Ideas He Will Actually Use",
+		"title": "Christmas Gifts for Boyfriend: 25 Ideas He Will Actually Use",
 		"slug": "christmas-gifts-for-boyfriend",
 		"category": "gifts-for-him",
-		"seoTitle": "Christmas Gifts for Boyfriend: 15 Ideas He Will Actually Use (2026)",
-		"metaDescription": "Stuck on what to get your boyfriend for Christmas? 15 gifts he will actually use, from sentimental keepsakes to cozy upgrades, each loved by thousands of buyers.",
+		"seoTitle": "Christmas Gifts for Boyfriend: 25 Ideas He Will Actually Use (2026)",
+		"metaDescription": "Stuck on what to get your boyfriend for Christmas? 25 gifts he will actually use, from sentimental keepsakes to cozy upgrades, each loved by thousands of buyers.",
 		"image": images.giftsForHim,
 		"imageAlt": "Flat lay of a leather wallet, wristwatch and folded shirt as gifts for him",
 		"intro": "Let us guess: you asked him what he wants for Christmas and he said \"nothing, I'm good.\" Classic. Do not worry, we did the hard part. Every gift on this list has thousands of happy buyers, and every one is something he will use long after December 25. Short on time? Our top pick is the engraved wallet card: it costs little, he carries it every day, and it says exactly what you want it to say. Order by mid-December so it arrives in time.",
@@ -55,6 +55,13 @@ export const guides: Guide[] = [
 						"alt": "Engraved metal wallet card with a love message",
 						"description": "A thin metal card with your message engraved on it, made to sit in his wallet forever. Every time he pays for coffee, he sees it. 4.8 stars from hundreds of girlfriends and wives who say he teared up.",
 						"amazonUrl": "https://www.amazon.com/dp/B07YD2HWYK?tag=relations0237-20"
+					},
+					{
+						"name": "Best for the guy who never says it: What I Love About You fill-in book",
+						"image": "https://images.pexels.com/photos/3847713/pexels-photo-3847713.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Open book with a love note tucked inside",
+						"description": "A little book of prompts like \"I love the way you...\" that you fill in with your own words. It takes one evening to write, and he will keep it forever. Over 22,000 reviews, and a lot of them say he read it twice.",
+						"amazonUrl": "https://www.amazon.com/dp/1601064934?tag=relations0237-20"
 					},
 					{
 						"name": "Best for date nights: We're Not Really Strangers card game",
@@ -89,6 +96,34 @@ export const guides: Guide[] = [
 						"alt": "Small portable bluetooth speaker",
 						"description": "Over 150,000 reviews. Waterproof, 24-hour battery, and big sound for its size. For the shower, the car, the gym and the beach.",
 						"amazonUrl": "https://www.amazon.com/dp/B01MTB55WH?tag=relations0237-20"
+					},
+					{
+						"name": "Best for his commute: YETI Rambler 20 oz tumbler",
+						"image": "https://images.pexels.com/photos/9245381/pexels-photo-9245381.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Hand holding a matte black insulated tumbler",
+						"description": "Hot coffee at 8am, still hot at noon. Ice water that stays cold in a hot car. Over 155,000 reviews, and it is tough enough to survive being dropped (a lot).",
+						"amazonUrl": "https://www.amazon.com/dp/B073WJMKHN?tag=relations0237-20"
+					},
+					{
+						"name": "Best for the guy who loses everything: Apple AirTag 4-pack",
+						"image": "https://images.pexels.com/photos/20693249/pexels-photo-20693249.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Close-up of a set of keys",
+						"description": "Keys, wallet, backpack, gym bag: put an AirTag on each and he finds them from his iPhone in seconds. Over 48,000 reviews. Good to know: it works with iPhone only.",
+						"amazonUrl": "https://www.amazon.com/dp/B0D54JZTHY?tag=relations0237-20"
+					},
+					{
+						"name": "Best for his nightstand: TESLYAR wood docking station",
+						"image": "https://images.pexels.com/photos/5827831/pexels-photo-5827831.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Wallet, watch and keys on a wooden table",
+						"description": "One spot for his phone, wallet, keys and watch, so he stops asking \"have you seen my keys?\" Real wood, over 11,000 reviews, and it looks great on a dresser.",
+						"amazonUrl": "https://www.amazon.com/dp/B09PNKKS78?tag=relations0237-20"
+					},
+					{
+						"name": "Best for travel: Elviros toiletry bag",
+						"image": "https://images.pexels.com/photos/9185864/pexels-photo-9185864.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Black toiletry bag for travel",
+						"description": "Is he still packing his toothbrush in a plastic bag? This roomy dopp kit holds everything and looks sharp in any suitcase. Over 16,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B07Z4Q5YPN?tag=relations0237-20"
 					}
 				]
 			},
@@ -116,6 +151,13 @@ export const guides: Guide[] = [
 						"alt": "Shiatsu neck massager with heat",
 						"description": "Desk job? Gym sore? He will use this every evening. Deep-kneading nodes plus heat, with more than 50,000 reviews. Basically a massage that never gets tired.",
 						"amazonUrl": "https://www.amazon.com/dp/B07DBY2X24?tag=relations0237-20"
+					},
+					{
+						"name": "Coziest gift ever: The Comfy original wearable blanket",
+						"image": "https://images.pexels.com/photos/10761593/pexels-photo-10761593.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Person wrapped in a soft brown blanket",
+						"description": "A giant sherpa hoodie that is basically a blanket with sleeves. The Shark Tank hit with over 95,000 reviews. One size fits all, so you can borrow it (and you will).",
+						"amazonUrl": "https://www.amazon.com/dp/B07DKTDBWC?tag=relations0237-20"
 					}
 				]
 			},
@@ -143,6 +185,13 @@ export const guides: Guide[] = [
 						"alt": "Beard grooming kit with oil, balm and comb",
 						"description": "Oil, balm, brush, comb and scissors in one box. Almost 20,000 reviews. His beard gets softer, and so do your kisses.",
 						"amazonUrl": "https://www.amazon.com/dp/B07B53Q3BX?tag=relations0237-20"
+					},
+					{
+						"name": "Best for a clean shave: Philips Norelco OneBlade 360",
+						"image": "https://images.pexels.com/photos/7320120/pexels-photo-7320120.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Close-up of a man shaving his face",
+						"description": "Trims, edges and shaves with one tool, without razor burn. Perfect for the stubble look. Over 14,000 reviews, and he can use it wet in the shower.",
+						"amazonUrl": "https://www.amazon.com/dp/B0BZQTSBWZ?tag=relations0237-20"
 					}
 				]
 			},
@@ -177,6 +226,27 @@ export const guides: Guide[] = [
 						"alt": "Coffee mug on a heated mug warmer",
 						"description": "For the guy who always forgets his coffee on the desk. Keeps it hot for hours, so every sip tastes like the first.",
 						"amazonUrl": "https://www.amazon.com/dp/B0CC8DS2S5?tag=relations0237-20"
+					},
+					{
+						"name": "For the gym guy: TOLOCO massage gun",
+						"image": "https://images.pexels.com/photos/6389069/pexels-photo-6389069.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Fit man using a massage gun after a workout",
+						"description": "Sore legs after leg day? This handheld massager works out the knots in minutes. It comes with 10 heads and has over 62,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B083L8RNJR?tag=relations0237-20"
+					},
+					{
+						"name": "For the reader: Kindle Paperwhite",
+						"image": "https://images.pexels.com/photos/31145650/pexels-photo-31145650.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Person reading on an e-reader at home",
+						"description": "Thousands of books in his pocket, a glare-free screen for reading in the sun, and a battery that lasts for weeks. Over 23,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0DDZJS3SB?tag=relations0237-20"
+					},
+					{
+						"name": "For the guy who cooks: Lodge 12-inch cast iron skillet",
+						"image": "https://images.pexels.com/photos/33429151/pexels-photo-33429151.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Meal cooking in a cast iron skillet",
+						"description": "Perfect steaks, crispy potatoes, campfire breakfasts. A kitchen classic made in the USA that lasts a lifetime (people really pass these down). It comes pre-seasoned and ready to cook.",
+						"amazonUrl": "https://www.amazon.com/dp/B00006JSUB?tag=relations0237-20"
 					}
 				]
 			}
@@ -207,6 +277,20 @@ export const guides: Guide[] = [
 					"values": [
 						"Cozy winter",
 						"Every week"
+					]
+				},
+				{
+					"label": "YETI tumbler",
+					"values": [
+						"Busy mornings",
+						"Every day"
+					]
+				},
+				{
+					"label": "Wearable blanket",
+					"values": [
+						"Couch lovers",
+						"Every night in"
 					]
 				},
 				{
@@ -244,6 +328,10 @@ export const guides: Guide[] = [
 			{
 				"question": "What is a good Christmas gift for a new boyfriend?",
 				"answer": "Keep it thoughtful but not too intense: a cozy hoodie, a card game you can play together, or a fun gift for his hobby."
+			},
+			{
+				"question": "What are good stocking stuffers for a boyfriend?",
+				"answer": "Small things he will use every day: an engraved wallet card, an AirTag for his keys, or a What I Love About You book you fill in yourself."
 			},
 			{
 				"question": "When should I order Christmas gifts on Amazon?",
@@ -1004,6 +1092,586 @@ export const guides: Guide[] = [
 			{
 				"question": "When should I order a long distance Christmas gift?",
 				"answer": "At least 2 to 3 weeks before Christmas if it ships internationally. December shipping gets slow, and nobody wants a gift that arrives on December 28."
+			}
+		]
+	},
+	{
+		"title": "Gifts for the Man Who Has Everything: 12 Ideas He Does Not Own Yet",
+		"slug": "gifts-for-the-man-who-has-everything",
+		"category": "gifts-for-him",
+		"seoTitle": "Gifts for the Man Who Has Everything: 12 Unique Ideas (2026)",
+		"metaDescription": "Shopping for the man who has everything? 12 unique gifts he does not own yet: clever gadgets, experiences in a box and luxe upgrades, all loved by real buyers.",
+		"image": "https://images.pexels.com/photos/9169327/pexels-photo-9169327.jpeg?auto=compress&cs=tinysrgb&w=1216&h=912&fit=crop",
+		"imageAlt": "A man opening a gift box",
+		"intro": "He buys what he wants the second he wants it. His birthday list says \"nothing.\" And every Christmas you stand in a store thinking: what do you even get this guy? Here is the secret: stop looking for things he needs. Look for things he would never think to buy, but will love the second he opens them. Every gift here is a little surprising, a little fun, and loved by thousands of buyers. Our top pick: the whiskey smoker kit. It turns any drink into a bar-worthy cocktail, and it is a show every time he uses it.",
+		"sections": [
+			{
+				"heading": "Clever gadgets he did not know existed",
+				"text": "He has a phone, a watch and every charger ever made. But he does not have these. They solve tiny daily problems he has never even thought about, and that is exactly why they feel special.",
+				"products": [
+					{
+						"name": "Top pick: whiskey smoker kit with torch",
+						"image": "https://images.pexels.com/photos/16806518/pexels-photo-16806518.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Cocktail with smoke in a glass at a bar",
+						"description": "Wood chips, a torch and a smoker top that turns any old fashioned into a smoky, bar-quality drink. Comes with 2 glasses and ice molds. Over 6,800 reviews, and he will make one for every guest who visits.",
+						"amazonUrl": "https://www.amazon.com/dp/B0BJV68C17?tag=relations0237-20"
+					},
+					{
+						"name": "For the coffee guy: Ember Mug 2",
+						"image": "https://images.pexels.com/photos/1210020/pexels-photo-1210020.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Ceramic mug of hot coffee on a desk",
+						"description": "A smart mug that keeps his coffee at the exact temperature he likes, set from his phone. No more cold coffee after one long email. Over 21,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B07NQSR1DD?tag=relations0237-20"
+					},
+					{
+						"name": "For winter walks: Foxelli Bluetooth beanie",
+						"image": "https://images.pexels.com/photos/8133386/pexels-photo-8133386.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Man in a knit beanie holding headphones",
+						"description": "A warm knit beanie with headphones built in, plus a mic for calls. Music on his runs, no earbuds falling out in the cold. Fully washable, with over 2,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B08T6QBZC2?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Experiences in a box",
+				"text": "The man who has everything does not need more stuff. He needs something to do. These gifts give him a project, a new hobby or a fun night, and the memory lasts longer than the box.",
+				"products": [
+					{
+						"name": "Best for memories: Fujifilm Instax Mini 12 camera",
+						"image": "https://images.pexels.com/photos/3945342/pexels-photo-3945342.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Instant camera on a wooden table",
+						"description": "Point, shoot, and a real photo pops out of the camera. Perfect for trips, parties and date nights. Stick the photos on the fridge and watch him smile every time. Over 1,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0BWNYBRNL?tag=relations0237-20"
+					},
+					{
+						"name": "Best project: UGEARS Aero Clock wooden model",
+						"image": "https://images.pexels.com/photos/35728143/pexels-photo-35728143.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Wooden gears close-up",
+						"description": "A 3D wooden puzzle that turns into a real working clock, no glue needed. A few evenings of focus, and then it sits on his desk ticking. Almost 4,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B094994SJT?tag=relations0237-20"
+					},
+					{
+						"name": "For the snacker: Jack Link's jerky gift basket",
+						"image": "https://images.pexels.com/photos/37091572/pexels-photo-37091572.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Beef jerky with spices",
+						"description": "A box full of jerky, meat sticks and more, in different flavors. Cheesy? A little. Will he finish it in a week? Absolutely. Over 2,400 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0GHCJMDGZ?tag=relations0237-20"
+					},
+					{
+						"name": "For the foodie: TRUFF black truffle hot sauce",
+						"image": "https://images.pexels.com/photos/25003519/pexels-photo-25003519.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Jars of red hot sauce",
+						"description": "The fancy hot sauce that foodies talk about: chili, habanero and real black truffle. It makes eggs, pizza and tacos taste like a restaurant. Over 5,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0H7T9TKKB?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Luxe upgrades of things he already owns",
+				"text": "He has a glass, a pocket knife and a bottle of whiskey. But does he have the nice version? These are the upgrades he would never buy for himself, and he will notice the difference every time.",
+				"products": [
+					{
+						"name": "Best for the whiskey shelf: PONPUR globe decanter set",
+						"image": "https://images.pexels.com/photos/27837062/pexels-photo-27837062.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Whiskey decanter on a wooden table",
+						"description": "A glass globe decanter with two globe glasses and whiskey stones. It looks like it belongs in a movie office. Over 1,700 reviews, 4.8 stars.",
+						"amazonUrl": "https://www.amazon.com/dp/B09ZKYR7FL?tag=relations0237-20"
+					},
+					{
+						"name": "Best tool: LEATHERMAN Charge+ TTI multi-tool",
+						"image": "https://images.pexels.com/photos/6432919/pexels-photo-6432919.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Man holding a multi-tool in a leather case",
+						"description": "19 tools in one, from pliers and scissors to a premium steel blade. The serious version of the cheap multi-tool he has in a drawer. Comes with a 25-year warranty.",
+						"amazonUrl": "https://www.amazon.com/dp/B079MJHYKC?tag=relations0237-20"
+					},
+					{
+						"name": "Best personal touch: engraved whiskey glasses set of 2",
+						"image": "https://images.pexels.com/photos/36322545/pexels-photo-36322545.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Two whiskey glasses on a dark background",
+						"description": "Two rocks glasses engraved with his initial. The thing he would never buy himself, and the one he reaches for every time. Over 400 reviews and 4.7 stars.",
+						"amazonUrl": "https://www.amazon.com/dp/B0B93L5ZMH?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Gifts that are really about the two of you",
+				"text": "When he truly has everything, give him more time with you. These are the gifts that turn into dates, laughs and stories you will tell for years.",
+				"products": [
+					{
+						"name": "Best for couples: 100 Dates scratch-off poster",
+						"image": "https://images.pexels.com/photos/5911298/pexels-photo-5911298.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Happy couple on a date in a cafe",
+						"description": "100 date ideas hidden under scratch-off squares. Scratch one, do it, take a photo. It hangs on the wall and keeps you busy all year. Over 2,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B08TQNMHVP?tag=relations0237-20"
+					},
+					{
+						"name": "Best night in: We're Not Really Strangers Couples Edition",
+						"image": "https://images.pexels.com/photos/6803654/pexels-photo-6803654.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Couple playing cards with glasses of wine",
+						"description": "The viral card game, made for couples. Questions that start funny and get deep fast. Over 2,700 reviews say the same thing: you will learn something new about him.",
+						"amazonUrl": "https://www.amazon.com/dp/B0B7V56B7H?tag=relations0237-20"
+					}
+				]
+			}
+		],
+		"comparison": {
+			"columns": [
+				"Gift",
+				"Best for",
+				"Wow factor"
+			],
+			"rows": [
+				{
+					"label": "Whiskey smoker kit",
+					"values": [
+						"Whiskey and cocktail lovers",
+						"Very high"
+					]
+				},
+				{
+					"label": "Ember Mug 2",
+					"values": [
+						"Coffee every morning",
+						"High"
+					]
+				},
+				{
+					"label": "Instax Mini 12",
+					"values": [
+						"Trips and memories",
+						"High"
+					]
+				},
+				{
+					"label": "UGEARS wooden clock",
+					"values": [
+						"Guys who like projects",
+						"High"
+					]
+				},
+				{
+					"label": "Globe decanter set",
+					"values": [
+						"His home bar",
+						"Very high"
+					]
+				},
+				{
+					"label": "100 Dates poster",
+					"values": [
+						"Time together",
+						"Medium, lasts all year"
+					]
+				}
+			]
+		},
+		"faq": [
+			{
+				"question": "What do you get a man who has everything?",
+				"answer": "Something he would never buy himself: a clever gadget like a whiskey smoker kit or a smart mug, an experience like a wooden model to build, or a gift you enjoy together, like a 100 dates poster."
+			},
+			{
+				"question": "What is a unique gift for a man who has everything?",
+				"answer": "A whiskey smoker kit. Most men have never seen one, it turns any drink into a show, and it looks great on a home bar."
+			},
+			{
+				"question": "What is a good sentimental gift for a man who has everything?",
+				"answer": "Engraved whiskey glasses or a gift you share, like a couples card game. For more ideas, see our sentimental gifts for him guide."
+			},
+			{
+				"question": "When should I order so it arrives for Christmas?",
+				"answer": "By mid-December for most items. Engraved and personalized gifts take longer, so order those first."
+			}
+		]
+	},
+	{
+		"title": "Sentimental Gifts for Him: 13 Ideas That Will Make Him Emotional",
+		"slug": "sentimental-gifts-for-him",
+		"category": "gifts-for-him",
+		"seoTitle": "Sentimental Gifts for Him: 13 Meaningful Ideas for Boyfriend or Husband (2026)",
+		"metaDescription": "13 sentimental gifts for your boyfriend or husband: love notes, keepsakes, engraved pieces he carries every day and memory journals that will make him emotional.",
+		"image": images.memoryBook,
+		"imageAlt": "A memory book with photos and handwritten notes",
+		"intro": "Men act tough. Then they keep your first movie ticket in their wallet for 4 years. The truth is, guys love sentimental gifts, they just never ask for them. These are the gifts that carry your words, your photos and your story, so he can hold on to them every day. Some take 10 minutes to personalize, some take an evening, and all of them are loved by real couples. Our top pick: the Why I Love You journal. You fill it in, he keeps it forever. Order personalized gifts early, they take a few extra days to make.",
+		"sections": [
+			{
+				"heading": "Your words, his to keep",
+				"text": "Texts get lost in the scroll. Handwritten words stay. These gifts give him your feelings on paper (or metal), so he can come back to them on any hard day.",
+				"products": [
+					{
+						"name": "Top pick: Why I Love You journal",
+						"image": "https://images.pexels.com/photos/7278584/pexels-photo-7278584.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Person writing in a diary",
+						"description": "A journal full of prompts like \"I love the way you...\" and \"My favorite memory of us is...\" You fill it in, he reads it and goes quiet for a while. Over 3,400 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/1441307435?tag=relations0237-20"
+					},
+					{
+						"name": "Best for his wallet: engraved wallet insert card",
+						"image": "https://images.pexels.com/photos/5963183/pexels-photo-5963183.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Hand holding a brown leather wallet",
+						"description": "A thin steel card with a love message, made to live in his wallet. Every time he pays for something, there you are. 4.8 stars from almost 700 buyers.",
+						"amazonUrl": "https://www.amazon.com/dp/B07T5Y1HBX?tag=relations0237-20"
+					},
+					{
+						"name": "Most romantic: love notes in a bottle (90 capsules)",
+						"image": "https://images.pexels.com/photos/1363979/pexels-photo-1363979.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Glass bottle with a rolled paper note",
+						"description": "90 tiny capsules with little scrolls inside. Write a reason you love him on each one, and he opens one whenever he needs it. Over 25,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0136A7PLM?tag=relations0237-20"
+					},
+					{
+						"name": "Best for the future: Letters to Open When book",
+						"image": "https://images.pexels.com/photos/10652950/pexels-photo-10652950.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Old envelopes and letters",
+						"description": "A book of letters you write now and he opens later: \"open when you miss me\", \"open when you had a bad day\", \"open on our anniversary.\" Write now, read later, treasure forever.",
+						"amazonUrl": "https://www.amazon.com/dp/1452148724?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Your story, on display",
+				"text": "The best sentimental gifts end up on a wall or a desk, where he sees them every day. These turn your favorite photo or your song into something he can look at.",
+				"products": [
+					{
+						"name": "For your song: custom Spotify plaque with photo",
+						"image": "https://images.pexels.com/photos/6873721/pexels-photo-6873721.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Couple dancing to a vinyl record",
+						"description": "Your photo and \"your\" song, made to look like an album cover. Scan the code and the song plays. It lights up at night, too. Around 600 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0BLHX7C92?tag=relations0237-20"
+					},
+					{
+						"name": "Best photo gift: rotating wood couple frame",
+						"image": "https://images.pexels.com/photos/9451803/pexels-photo-9451803.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Framed picture of a couple",
+						"description": "A wooden frame that spins to show photos on both sides. Perfect for his desk at work, where he can show you off. Over 1,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0CGWQ477R?tag=relations0237-20"
+					},
+					{
+						"name": "Best big gift: personalized woven photo blanket",
+						"image": "https://images.pexels.com/photos/4886918/pexels-photo-4886918.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Soft blankets in a basket",
+						"description": "Your photo woven into a cotton blanket, not printed, so it does not fade. Made in the USA. He will cuddle up under your face all winter. Over 2,200 reviews, 4.8 stars.",
+						"amazonUrl": "https://www.amazon.com/dp/B08Y97SRVP?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Something he carries every day",
+				"text": "These are small, quiet and with him all the time. Nobody else needs to know what they mean. He knows.",
+				"products": [
+					{
+						"name": "Best everyday reminder: Drive Safe keychain",
+						"image": "https://images.pexels.com/photos/29217852/pexels-photo-29217852.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Hand holding car keys inside a car",
+						"description": "\"Drive safe handsome, I need you here with me.\" He sees it every time he starts the car. Small, sweet and the most-loved gift in this guide, with over 6,400 reviews and 4.8 stars.",
+						"amazonUrl": "https://www.amazon.com/dp/B08SW6S11X?tag=relations0237-20"
+					},
+					{
+						"name": "Best necklace: To My Man dog tag pendant",
+						"image": "https://images.pexels.com/photos/5995849/pexels-photo-5995849.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Person wearing a silver necklace",
+						"description": "A dog tag pendant with a \"to my man, I love you\" message. He can wear it under his shirt, just for him. Over 350 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B08ZKCQQ2V?tag=relations0237-20"
+					},
+					{
+						"name": "Best keepsake: \"Find your way back to me\" sundial compass",
+						"image": "https://images.pexels.com/photos/6593994/pexels-photo-6593994.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Antique compass on a table",
+						"description": "A sundial compass engraved with \"So you can always find your way back to me.\" Perfect for the traveler, the hiker, or the guy who is always on the road. 4.8 stars.",
+						"amazonUrl": "https://www.amazon.com/dp/B0D3P8XBJH?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Memories you make together",
+				"text": "Sentimental does not only mean the past. These gifts help you build new memories and save them, so in 10 years you have a whole story to look back on.",
+				"products": [
+					{
+						"name": "Best for your love story: The Story of Us journal",
+						"image": "https://images.pexels.com/photos/6818101/pexels-photo-6818101.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Couple looking at a notebook together",
+						"description": "A fill-in journal about the two of you: how you met, your first date, your inside jokes. Fill it in together on a cozy night. Over 700 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/1794660399?tag=relations0237-20"
+					},
+					{
+						"name": "Best for photos: wooden keepsake box with photo frame",
+						"image": "https://images.pexels.com/photos/13625518/pexels-photo-13625518.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Wooden box filled with photographs",
+						"description": "A wooden box with a photo frame in the lid. Fill it with ticket stubs, notes and photos from your best moments. Around 300 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0C14999Y3?tag=relations0237-20"
+					},
+					{
+						"name": "Best for date nights: scratch-off date ideas cards",
+						"image": "https://images.pexels.com/photos/5086766/pexels-photo-5086766.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Couple sharing red wine on a date",
+						"description": "A deck of date ideas you scratch off one by one, so you never ask \"what do you want to do tonight?\" again. Over 8,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B08YWP5QRF?tag=relations0237-20"
+					}
+				]
+			}
+		],
+		"comparison": {
+			"columns": [
+				"Gift",
+				"Best for",
+				"Time to personalize"
+			],
+			"rows": [
+				{
+					"label": "Why I Love You journal",
+					"values": [
+						"Making him emotional",
+						"One evening"
+					]
+				},
+				{
+					"label": "Engraved wallet card",
+					"values": [
+						"Every day, forever",
+						"None"
+					]
+				},
+				{
+					"label": "Love notes in a bottle",
+					"values": [
+						"Hard days",
+						"A few hours"
+					]
+				},
+				{
+					"label": "Spotify plaque",
+					"values": [
+						"Your song",
+						"5 minutes"
+					]
+				},
+				{
+					"label": "Woven photo blanket",
+					"values": [
+						"A big gift",
+						"5 minutes"
+					]
+				},
+				{
+					"label": "Drive Safe keychain",
+					"values": [
+						"A small daily reminder",
+						"None"
+					]
+				}
+			]
+		},
+		"faq": [
+			{
+				"question": "What is the most sentimental gift for a boyfriend?",
+				"answer": "Your own words. A journal you fill in, like Why I Love You, or a jar of love notes. He can keep it forever, and it means more than anything you can buy."
+			},
+			{
+				"question": "What is a sentimental gift for a husband?",
+				"answer": "A woven photo blanket, a Spotify plaque with your wedding song, or a Story of Us journal you fill in together."
+			},
+			{
+				"question": "Do guys like sentimental gifts?",
+				"answer": "Yes, even if they do not say it. Most men keep notes and small keepsakes for years. The trick is to make it personal, not over the top."
+			},
+			{
+				"question": "How early should I order personalized gifts?",
+				"answer": "2 to 3 weeks before the date. Engraved and custom photo gifts are made to order, and they take longer in December."
+			}
+		]
+	},
+	{
+		"title": "Long Distance Gifts for Boyfriend: 12 Ideas to Feel Close From Miles Away",
+		"slug": "long-distance-gifts-for-boyfriend",
+		"category": "long-distance",
+		"seoTitle": "Long Distance Gifts for Boyfriend: 12 Ideas to Feel Close (2026)",
+		"metaDescription": "12 long distance gifts for your boyfriend: touch bracelets, love note messengers, care packages and video date games that make the miles feel smaller.",
+		"image": "https://images.pexels.com/photos/6415625/pexels-photo-6415625.jpeg?auto=compress&cs=tinysrgb&w=1216&h=912&fit=crop",
+		"imageAlt": "A couple on a video call in a long distance relationship",
+		"intro": "He is 3 time zones away, your calls keep dropping, and you just want to hug him. Long distance is hard, but the right gift makes him feel you are right there. We picked gifts guys actually like: tech that connects you, things he can hold, food he will love and games for your video calls. Our top pick: the TOTWOO touch bracelets. You tap yours, his lights up, wherever he is. Shipping tip: if he lives in another country, order 3 weeks early.",
+		"sections": [
+			{
+				"heading": "Tech that keeps you connected",
+				"text": "Guys love a gadget, and these gadgets come with a little \"I miss you\" built in. One tap or one message, and he knows you are thinking of him.",
+				"products": [
+					{
+						"name": "Top pick: TOTWOO Sun and Moon touch bracelets",
+						"image": "https://images.pexels.com/photos/34303810/pexels-photo-34303810.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Couple holding hands outdoors",
+						"description": "Tap your bracelet and his lights up and vibrates, anywhere in the world. Simple, not too flashy, and he can wear it to work. Good to know: it connects through a phone app, so check both phones are supported.",
+						"amazonUrl": "https://www.amazon.com/dp/B0DHRVYQK8?tag=relations0237-20"
+					},
+					{
+						"name": "Most romantic: Lovebox love note messenger",
+						"image": "https://images.pexels.com/photos/6795725/pexels-photo-6795725.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "I love you written on a yellow heart",
+						"description": "A little wooden box with a heart on top. Send a message from your phone, and the heart spins until he opens it and reads your note. Nearly 500 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0914RRGR2?tag=relations0237-20"
+					},
+					{
+						"name": "Best for his nightstand: LuvLink friendship lamps",
+						"image": "https://images.pexels.com/photos/35392792/pexels-photo-35392792.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Two glowing lamps connected across the distance",
+						"description": "Two Wi-Fi lamps, one for each of you. Touch yours and his glows in your color, so he gets a soft \"goodnight\" from you every evening, even across time zones.",
+						"amazonUrl": "https://www.amazon.com/dp/B0C5WVGVF4?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "A piece of you he can hold",
+				"text": "When he misses you, he needs something real, not a screen. These are small things that stay with him every day.",
+				"products": [
+					{
+						"name": "Sweetest pick: Hug This Pillow pillow cover",
+						"image": "https://images.pexels.com/photos/8264246/pexels-photo-8264246.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Person holding a soft white pillow",
+						"description": "\"Hug this pillow until you can hug me.\" Spray it with your perfume before you mail it, and you will get a very happy call. Over 1,000 reviews. Good to know: it is the cover only, so add a pillow insert.",
+						"amazonUrl": "https://www.amazon.com/dp/B09LL9PV28?tag=relations0237-20"
+					},
+					{
+						"name": "Best for his keys: matching puzzle keychains",
+						"image": "https://images.pexels.com/photos/9227483/pexels-photo-9227483.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Heart-shaped puzzle pieces",
+						"description": "Two puzzle pieces that fit together, one for you and one for him. A tiny daily reminder that you are two halves of the same thing.",
+						"amazonUrl": "https://www.amazon.com/dp/B07BNG9Q7L?tag=relations0237-20"
+					},
+					{
+						"name": "Best for mornings: \"Distance means so little\" mug",
+						"image": "https://images.pexels.com/photos/5332520/pexels-photo-5332520.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Man drinking coffee at sunrise",
+						"description": "A mug that says \"distance means so little when someone means so much.\" He drinks his morning coffee and thinks of you. 4.8 stars from over 500 buyers.",
+						"amazonUrl": "https://www.amazon.com/dp/B07Z1H8C22?tag=relations0237-20"
+					},
+					{
+						"name": "Best DIY gift: clear photo keychain",
+						"image": "https://images.pexels.com/photos/7235902/pexels-photo-7235902.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Polaroid photos and a passport",
+						"description": "Pop in your favorite photo of the two of you, and he carries it everywhere. Costs little, and has over 1,200 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B07T4SN46Q?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Care packages he will actually eat",
+				"text": "Food is love, especially from far away. Add a handwritten note and the hoodie you stole from him, and it becomes a hug in a box.",
+				"products": [
+					{
+						"name": "Best care package: healthy snack box (52 count)",
+						"image": "https://images.pexels.com/photos/5056620/pexels-photo-5056620.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Box of snacks and cookies",
+						"description": "52 snacks in one big mix, ready to ship straight to his door. Over 1,000 reviews. Perfect for exam season or a busy week at work.",
+						"amazonUrl": "https://www.amazon.com/dp/B0H9TZZX3C?tag=relations0237-20"
+					},
+					{
+						"name": "For the coffee guy: Two Rivers flavored coffee pods",
+						"image": "https://images.pexels.com/photos/4226867/pexels-photo-4226867.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Coffee pods for a coffee machine",
+						"description": "40 coffee pods in different flavors for his Keurig. A new flavor every morning, and a new reason to text you \"thank you.\" Over 61,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B00N0JIACS?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Turn video calls into real dates",
+				"text": "\"So... what did you do today?\" Not again. These games give your calls something to do, and you will laugh more than you have in weeks.",
+				"products": [
+					{
+						"name": "Best for video dates: 200 couples conversation cards",
+						"image": "https://images.pexels.com/photos/4008457/pexels-photo-4008457.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Man on a video call on his phone",
+						"description": "200 questions made for couples, and they work great long distance. Pick a card on your call and get answers you never heard before. Over 2,400 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0875MVRK3?tag=relations0237-20"
+					},
+					{
+						"name": "Most fun: The Ultimate Date Night Game (Would You Rather?)",
+						"image": "https://images.pexels.com/photos/3692738/pexels-photo-3692738.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Couple laughing together",
+						"description": "Silly, spicy and deep would-you-rather questions. You read one, he answers, and suddenly it is 2am. Over 800 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/0593435729?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Until you see him again",
+				"text": "The hardest part is the waiting. This one makes the wait a little sweeter.",
+				"products": [
+					{
+						"name": "Best for the hard days: Open When envelopes",
+						"image": "https://images.pexels.com/photos/10131190/pexels-photo-10131190.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Man reading letters",
+						"description": "20 envelopes labeled \"open when you miss me\", \"open when you can't sleep\" and more. Fill them with notes and photos, and mail them in one box. 4.7 stars.",
+						"amazonUrl": "https://www.amazon.com/dp/B0BTNJQ9VD?tag=relations0237-20"
+					}
+				]
+			}
+		],
+		"comparison": {
+			"columns": [
+				"Gift",
+				"Best for",
+				"He will use it"
+			],
+			"rows": [
+				{
+					"label": "Touch bracelets",
+					"values": [
+						"Feeling close daily",
+						"Every day"
+					]
+				},
+				{
+					"label": "Lovebox",
+					"values": [
+						"Surprise messages",
+						"Every week"
+					]
+				},
+				{
+					"label": "Hug This Pillow",
+					"values": [
+						"Missing you at night",
+						"Every night"
+					]
+				},
+				{
+					"label": "Snack box",
+					"values": [
+						"Care packages",
+						"All week"
+					]
+				},
+				{
+					"label": "Conversation cards",
+					"values": [
+						"Video dates",
+						"Every call"
+					]
+				},
+				{
+					"label": "Open When envelopes",
+					"values": [
+						"Hard days",
+						"When he needs it"
+					]
+				}
+			]
+		},
+		"faq": [
+			{
+				"question": "What should I get my long distance boyfriend?",
+				"answer": "Something he uses every day that reminds him of you: touch bracelets, a Lovebox, or a mug with a message. Add a care package for a nice surprise."
+			},
+			{
+				"question": "What do you put in a long distance care package for him?",
+				"answer": "His favorite snacks, coffee pods, a handwritten letter, a photo keychain, and something that smells like you, like a pillow cover sprayed with your perfume."
+			},
+			{
+				"question": "Do long distance touch bracelets work in different countries?",
+				"answer": "Yes. They connect through an app over the internet, so the distance does not matter. Check that both phones are supported before you buy."
+			},
+			{
+				"question": "How early should I send a long distance gift?",
+				"answer": "2 to 3 weeks early for international shipping, and even earlier in December. Use Amazon's gift options to ship it straight to his address."
 			}
 		]
 	}
