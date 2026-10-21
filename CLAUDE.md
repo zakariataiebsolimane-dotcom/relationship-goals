@@ -10,8 +10,9 @@ Owner: Zakaria (English is not his first language — talk to him in simple Engl
   Every page is built to plain HTML in `dist/apps/web/client` — no Node server needed.
 - Hosting: Hostinger web hosting (Apache). `apps/web/public/.htaccess` handles
   clean URLs (no trailing slash), HTTPS and 404s.
-- Deploy: push to `main` → GitHub Action builds → pushes the built site to the
-  `deploy` branch → Hostinger Git auto-deploys `deploy` into `public_html`.
+- Deploy: commit + push to `main`, then run `./deploy.sh` — it builds and force-pushes
+  the static site to the `deploy` branch. Hostinger Git pulls `deploy` into `public_html`.
+  (`.github/workflows/deploy.yml` does the same automatically if GitHub Actions gets enabled.)
 
 ## Commands (run from repo root)
 - `npm install`
