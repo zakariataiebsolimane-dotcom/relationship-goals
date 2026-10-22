@@ -36,6 +36,542 @@ const A = '#'; // Replace with your Amazon affiliate URL
 
 export const guides: Guide[] = [
 	{
+		"title": "Couples Halloween Costumes: 14 Easy Last-Minute Ideas (2026)",
+		"slug": "couples-halloween-costumes",
+		"category": "couple-style",
+		"seoTitle": "Couples Halloween Costumes 2026: 14 Easy, Funny & Last-Minute Ideas",
+		"metaDescription": "14 easy couples Halloween costumes for 2026: funny pairs, cozy onesies and 5-minute last-minute ideas you can still get before Halloween.",
+		"image": "https://images.pexels.com/photos/18676949/pexels-photo-18676949.jpeg?auto=compress&cs=tinysrgb&w=1216&h=912&fit=crop",
+		"imageAlt": "A couple dressed as ghosts with sunglasses",
+		"intro": "Halloween is in a few days, the party invite is in your chat, and you two still have no costume. Breathe. These couples costumes are easy, funny and comfortable, and most of them are one click away. Some are full matching sets, some are just two pieces that make the joke work. Our top pick: matching skeleton onesies. Cozy, cute in photos, and he will actually agree to wear it. Order today, Halloween week is busy for delivery.",
+		"sections": [
+			{
+				"heading": "The easiest matching costumes",
+				"text": "Zero thinking, zero sewing. Put it on, take the photo, done.",
+				"products": [
+					{
+						"name": "Top pick: skeleton onesie for her",
+						"image": "https://images.pexels.com/photos/5428147/pexels-photo-5428147.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A skeleton on a white background",
+						"description": "A soft hooded skeleton onesie that looks great in photos and feels like pajamas. Pair it with his skeleton suit below. Over 8,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B01I0Q2QB6?tag=relations0237-20"
+					},
+					{
+						"name": "His match: unisex skeleton costume",
+						"image": "https://images.pexels.com/photos/8471922/pexels-photo-8471922.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A skeleton standing in a room",
+						"description": "The matching skeleton jumpsuit for him, so you two look like one creepy-cute team. Over 2,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B08F2RFV6L?tag=relations0237-20"
+					},
+					{
+						"name": "Cozy option: dinosaur onesies",
+						"image": "https://images.pexels.com/photos/11743337/pexels-photo-11743337.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A red dinosaur head under neon light",
+						"description": "Two T-Rex onesies and you are the funniest couple at the party. Warm enough for trick-or-treat walks too. Over 5,800 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0145JTYDA?tag=relations0237-20"
+					},
+					{
+						"name": "Cutest photos: cow onesies",
+						"image": "https://images.pexels.com/photos/31794126/pexels-photo-31794126.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A white cow in a green field",
+						"description": "Soft flannel cow onesies that double as winter pajamas after Halloween. Over 4,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0BX3SD321?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Funny pairs (he is the joke, you are the punchline)",
+				"text": "Costumes that only make sense together, so everyone knows you came as a couple.",
+				"products": [
+					{
+						"name": "Most laughs: plug and socket",
+						"image": "https://images.pexels.com/photos/7080397/pexels-photo-7080397.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A couple in funny matching costumes",
+						"description": "The classic couples joke costume. People will take photos of you all night. Over 1,900 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B07W45HH8M?tag=relations0237-20"
+					},
+					{
+						"name": "Silly and sweet: peanut butter and jelly",
+						"image": "https://images.pexels.com/photos/35872896/pexels-photo-35872896.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A couple dancing at a party",
+						"description": "Two foam tunics, one perfect pair. Easy to wear over normal clothes. Over 900 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B07W44J522?tag=relations0237-20"
+					},
+					{
+						"name": "Clean humor: loofah and soap",
+						"image": "https://images.pexels.com/photos/5420794/pexels-photo-5420794.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A trick or treat sign with orange decorations",
+						"description": "A funny, family-friendly pair that slips over your clothes in seconds. Over 600 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B08DK3CXSC?tag=relations0237-20"
+					},
+					{
+						"name": "Spooky classic: Ghost Face costume",
+						"image": "https://images.pexels.com/photos/9846847/pexels-photo-9846847.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Two people dressed as ghosts on a road",
+						"description": "The horror movie robe and mask he can throw on in 1 minute. Pair it with a white sheet ghost for you. Over 3,400 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0027VT61Y?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Romantic and a little dark",
+				"text": "For couples who want to look good, not funny.",
+				"products": [
+					{
+						"name": "Date-night look: vampire cape",
+						"image": "https://images.pexels.com/photos/14395498/pexels-photo-14395498.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A woman in a vampire costume with a red background",
+						"description": "A dramatic black and red cape that turns any black outfit into a vampire look. Get one for each of you. Over 1,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B08BW5D4QV?tag=relations0237-20"
+					},
+					{
+						"name": "The detail that sells it: custom fangs",
+						"image": "https://images.pexels.com/photos/15124243/pexels-photo-15124243.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A man with vampire fangs",
+						"description": "Real-looking fangs you mold to your teeth at home. The tiny thing that makes the costume. Over 11,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B000RUJJAU?tag=relations0237-20"
+					},
+					{
+						"name": "Angel and devil: halo and horns headbands",
+						"image": "https://images.pexels.com/photos/6617259/pexels-photo-6617259.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A devil mask with red horns",
+						"description": "The fastest couples costume ever: a halo for one, horns for the other. Wear with white and black outfits. Over 600 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B08BRGD2TR?tag=relations0237-20"
+					},
+					{
+						"name": "Witchy pair: classic witch hat",
+						"image": "https://images.pexels.com/photos/5422773/pexels-photo-5422773.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A witch hat on a spider web",
+						"description": "A big floppy witch hat for her (or a wizard look for him). Add a black dress and you are ready. Over 1,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B092HTR6KR?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Last-minute heroes",
+				"text": "Cheap, fast and still cute. Perfect if the party is tomorrow.",
+				"products": [
+					{
+						"name": "Pumpkin pair: pumpkin costume set",
+						"image": "https://images.pexels.com/photos/14234270/pexels-photo-14234270.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Two people in white sheets holding pumpkins",
+						"description": "A 3-piece pumpkin set that fits over leggings or jeans. Cute, comfy and very photo friendly. Over 900 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0CHQJLQTC?tag=relations0237-20"
+					},
+					{
+						"name": "Any idea, one base: unisex hooded jumpsuit",
+						"image": "https://images.pexels.com/photos/9147706/pexels-photo-9147706.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Two people in red and black costumes",
+						"description": "A plain hooded jumpsuit you can turn into a devil, ninja or skeleton with face paint. Over 1,600 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B07PZ8Y3SZ?tag=relations0237-20"
+					}
+				]
+			}
+		],
+		"comparison": {
+			"columns": [
+				"Costume",
+				"Best for",
+				"Comfort"
+			],
+			"rows": [
+				{
+					"label": "Skeleton onesies",
+					"values": [
+						"Cute photos",
+						"Very comfy"
+					]
+				},
+				{
+					"label": "Dinosaur onesies",
+					"values": [
+						"Funny + warm",
+						"Very comfy"
+					]
+				},
+				{
+					"label": "Plug and socket",
+					"values": [
+						"Most laughs",
+						"Easy over clothes"
+					]
+				},
+				{
+					"label": "Vampire cape + fangs",
+					"values": [
+						"Romantic, dark look",
+						"Easy"
+					]
+				},
+				{
+					"label": "Halo and horns",
+					"values": [
+						"Last minute",
+						"Super easy"
+					]
+				}
+			]
+		},
+		"faq": [
+			{
+				"question": "What are easy couples Halloween costumes?",
+				"answer": "Matching onesies (skeletons, dinosaurs, cows), angel and devil headbands, or a funny pair like plug and socket. All of them go on in under 5 minutes."
+			},
+			{
+				"question": "What is a good last-minute couples costume?",
+				"answer": "Halo and horns headbands with white and black outfits, two white sheet ghosts, or a vampire cape with fangs. Most ship fast on Amazon."
+			},
+			{
+				"question": "How do I get my boyfriend to wear a couples costume?",
+				"answer": "Pick something comfortable (onesies win) or funny. Guys say yes much faster when the costume is a joke or feels like pajamas."
+			},
+			{
+				"question": "Will a costume arrive before Halloween?",
+				"answer": "Check the delivery date on Amazon before you order. In Halloween week, order as early as you can or pick items with fast delivery."
+			}
+		]
+	},
+	{
+		"title": "Boo Basket for Boyfriend: 12 Spooky Gift Ideas He Will Love",
+		"slug": "boo-basket-for-boyfriend",
+		"category": "gifts-for-him",
+		"seoTitle": "Boo Basket for Boyfriend: 12 Halloween Gift Basket Ideas for Him (2026)",
+		"metaDescription": "How to make a boo basket for your boyfriend: 12 Halloween gift ideas he will love, from horror movie games and spooky socks to snacks and a cozy blanket.",
+		"image": "https://images.pexels.com/photos/3139093/pexels-photo-3139093.jpeg?auto=compress&cs=tinysrgb&w=1216&h=912&fit=crop",
+		"imageAlt": "A pumpkin bucket with spooky legs and pumpkins",
+		"intro": "A boo basket is a Halloween gift basket full of spooky little things, and guys love them more than they admit. You do not need to spend a lot. Pick 5 or 6 items below, add his favorite snacks, put it all in a basket with paper filler, and leave it at his door (ring the bell and run, that is the tradition). Our top pick for every basket: funny Halloween socks. Cheap, cute and he will wear them every October.",
+		"sections": [
+			{
+				"heading": "The base of every boo basket",
+				"text": "Start with these. They make the basket look full and feel cozy.",
+				"products": [
+					{
+						"name": "Top pick: funny Halloween socks",
+						"image": "https://images.pexels.com/photos/10563910/pexels-photo-10563910.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "People wearing colorful striped socks",
+						"description": "A pack of spooky novelty socks with pumpkins, ghosts and skulls. Small, funny and he will actually wear them. Over 4,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0CG13NRZ9?tag=relations0237-20"
+					},
+					{
+						"name": "Coziest add: Halloween throw blanket",
+						"image": "https://images.pexels.com/photos/6633533/pexels-photo-6633533.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A soft blanket on a couch",
+						"description": "A soft spooky blanket for horror movie nights, so he thinks of you every time he uses it. Over 6,900 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0H8TTGKS9?tag=relations0237-20"
+					},
+					{
+						"name": "For the smell of fall: spiced pumpkin candle",
+						"image": "https://images.pexels.com/photos/11137699/pexels-photo-11137699.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Candles on a wooden tray",
+						"description": "A big Yankee Candle that makes his place smell like October. Over 1,700 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0F3DRTCB2?tag=relations0237-20"
+					},
+					{
+						"name": "Make it look full: crinkle paper filler",
+						"image": "https://images.pexels.com/photos/5859364/pexels-photo-5859364.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Hands holding an orange Halloween bucket",
+						"description": "Shredded paper filler that makes any basket look professional in 2 minutes. Over 3,300 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0CMCQGY9K?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "For the horror movie lover",
+				"text": "If his favorite season is \"scary movie season\", these are for him.",
+				"products": [
+					{
+						"name": "Best game: horror movie trivia cards",
+						"image": "https://images.pexels.com/photos/28859500/pexels-photo-28859500.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A person in zombie makeup",
+						"description": "Hundreds of horror movie questions. Play it together on Halloween night and see who really knows the classics. Over 2,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B07JVF73RY?tag=relations0237-20"
+					},
+					{
+						"name": "Movie night plan: top 50 horror movies scratch-off",
+						"image": "https://images.pexels.com/photos/28821625/pexels-photo-28821625.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A neon cinema sign at night",
+						"description": "A scratch-off poster of the 50 best horror movies. Watch one, scratch one. A plan for every Friday night. Over 700 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0CR6T68WL?tag=relations0237-20"
+					},
+					{
+						"name": "Collector pick: Ghostface Funko Pop",
+						"image": "https://images.pexels.com/photos/11003194/pexels-photo-11003194.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A dark figure in a hood",
+						"description": "A little Ghostface figure for his desk or shelf. Small, cheap and very on theme. Over 2,300 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0CND1KMSD?tag=relations0237-20"
+					},
+					{
+						"name": "Morning scare: horror coffee mug",
+						"image": "https://images.pexels.com/photos/30588671/pexels-photo-30588671.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A woman holding a horror mask",
+						"description": "A horror-themed mug for his morning coffee. A small gift he uses every day. Over 1,100 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B08PCT3Z5F?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Snacks and drinks",
+				"text": "No boo basket is complete without treats.",
+				"products": [
+					{
+						"name": "Must-have: chocolate candy mix",
+						"image": "https://images.pexels.com/photos/14147299/pexels-photo-14147299.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A pile of Halloween candy",
+						"description": "M&M'S, Twix and Snickers in one big bag. Fill the gaps in the basket with these. Over 4,500 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0BK1Z6V43?tag=relations0237-20"
+					},
+					{
+						"name": "Movie night upgrade: popcorn seasoning set",
+						"image": "https://images.pexels.com/photos/8652476/pexels-photo-8652476.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Popcorn and old film reels on a dark table",
+						"description": "Six popcorn flavors so your horror movie night feels like a real cinema. Over 24,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B00H727M6O?tag=relations0237-20"
+					},
+					{
+						"name": "For the drinks guy: skull shot glasses",
+						"image": "https://images.pexels.com/photos/32176015/pexels-photo-32176015.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Two orange glasses on a white table",
+						"description": "Two crystal skull glasses for his favorite drink. Spooky, and still nice all year. Over 300 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B09DQCCTQK?tag=relations0237-20"
+					},
+					{
+						"name": "The sweet note: \"You're my boo\" crochet ghost",
+						"image": "https://images.pexels.com/photos/9764795/pexels-photo-9764795.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Small ghost figurines in a pumpkin bowl",
+						"description": "A tiny handmade ghost with a cute message. The little love note that makes the basket yours. 4.9 stars from over 300 buyers.",
+						"amazonUrl": "https://www.amazon.com/dp/B0FJS6849Q?tag=relations0237-20"
+					}
+				]
+			}
+		],
+		"comparison": {
+			"columns": [
+				"Item",
+				"Why it works",
+				"Basket role"
+			],
+			"rows": [
+				{
+					"label": "Halloween socks",
+					"values": [
+						"Funny, he wears them",
+						"Main gift"
+					]
+				},
+				{
+					"label": "Halloween blanket",
+					"values": [
+						"Cozy movie nights",
+						"Big item"
+					]
+				},
+				{
+					"label": "Horror trivia cards",
+					"values": [
+						"Fun to do together",
+						"Activity"
+					]
+				},
+				{
+					"label": "Candy mix",
+					"values": [
+						"Fills the basket",
+						"Treats"
+					]
+				},
+				{
+					"label": "Crochet ghost",
+					"values": [
+						"Sweet and personal",
+						"Love note"
+					]
+				}
+			]
+		},
+		"faq": [
+			{
+				"question": "What is a boo basket?",
+				"answer": "A Halloween gift basket full of spooky treats and small gifts. The tradition is to leave it at someone's door, ring the bell and run."
+			},
+			{
+				"question": "What do you put in a boo basket for your boyfriend?",
+				"answer": "Funny Halloween socks, his favorite candy, a cozy blanket, a horror movie game, a candle and a small love note. 5 or 6 items is enough."
+			},
+			{
+				"question": "How much should a boo basket cost?",
+				"answer": "As much as you want. A few small items and candy already make a great basket. It is the idea that counts."
+			},
+			{
+				"question": "When should I give a boo basket?",
+				"answer": "Any day in the week before Halloween. Earlier is better, so he can use the blanket and play the game on Halloween night."
+			}
+		]
+	},
+	{
+		"title": "Halloween Date Night Ideas: 10 Spooky Things to Do Together",
+		"slug": "halloween-date-night-ideas",
+		"category": "date-night",
+		"seoTitle": "Halloween Date Night Ideas for Couples: 10 Spooky & Cozy Ideas at Home (2026)",
+		"metaDescription": "10 Halloween date night ideas for couples at home: pumpkin carving, a horror movie night, a haunted escape room game, spooky cocktails and more.",
+		"image": "https://images.pexels.com/photos/7234319/pexels-photo-7234319.jpeg?auto=compress&cs=tinysrgb&w=1216&h=912&fit=crop",
+		"imageAlt": "A couple watching a movie together on the couch",
+		"intro": "Not every Halloween needs a crowded party. Some of the best ones are just the two of you, a pumpkin, a scary movie and a blanket. These date ideas work at home, cost little and feel special. Mix 2 or 3 of them and you have a perfect Halloween night. Our top pick: a haunted escape room game. 60 minutes of teamwork, a little fear, and a lot of laughing.",
+		"sections": [
+			{
+				"heading": "Do something together",
+				"text": "Dates where you make or solve something as a team.",
+				"products": [
+					{
+						"name": "Top pick: haunted escape room game",
+						"image": "https://images.pexels.com/photos/8111328/pexels-photo-8111328.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Hands playing a board game on a table",
+						"description": "An at-home escape room with a spooky story. You have about an hour to solve the puzzles together. Over 2,300 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B07P7J99YW?tag=relations0237-20"
+					},
+					{
+						"name": "Classic date: pumpkin carving kit",
+						"image": "https://images.pexels.com/photos/29122857/pexels-photo-29122857.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A pile of orange pumpkins",
+						"description": "Real carving tools so your jack-o'-lanterns look amazing (and nobody cuts a finger). Put on music and make it a contest. Over 1,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0983N11N6?tag=relations0237-20"
+					},
+					{
+						"name": "Slow and cozy: Halloween 1000-piece puzzle",
+						"image": "https://images.pexels.com/photos/30708395/pexels-photo-30708395.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Puzzle pieces close up",
+						"description": "A spooky puzzle for a calm night in. Tea, candles and a puzzle is a very underrated date. Over 1,700 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0F62WPXVV?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Horror movie night, done right",
+				"text": "Turn a normal movie night into a real Halloween date.",
+				"products": [
+					{
+						"name": "Must-have: popcorn seasoning variety pack",
+						"image": "https://images.pexels.com/photos/8273630/pexels-photo-8273630.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A man watching a movie in a cinema seat",
+						"description": "Six popcorn flavors so every movie gets its own snack. Over 24,000 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B00H727M6O?tag=relations0237-20"
+					},
+					{
+						"name": "Cuddle essential: cute Halloween blanket",
+						"image": "https://images.pexels.com/photos/5477678/pexels-photo-5477678.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Small black spiders on an orange background",
+						"description": "A soft spooky blanket big enough for two, for the scary scenes. Over 2,700 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0FF92P4G1?tag=relations0237-20"
+					},
+					{
+						"name": "Movie game: Trivial Pursuit Horror edition",
+						"image": "https://images.pexels.com/photos/7991149/pexels-photo-7991149.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Friends watching a movie in a cinema",
+						"description": "600 horror movie questions. Play between movies and see who wins. Over 700 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B07C9151D8?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Spooky dinner and drinks",
+				"text": "A little effort on the table makes the night feel special.",
+				"products": [
+					{
+						"name": "Funniest detail: blood bag drink pouches",
+						"image": "https://images.pexels.com/photos/33174185/pexels-photo-33174185.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "Two colorful cocktails on a table",
+						"description": "Reusable \"blood bags\" for cocktails or juice. Silly, creepy and great for photos. Over 3,400 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B01NH33J19?tag=relations0237-20"
+					},
+					{
+						"name": "Snack board: charcuterie board with lid",
+						"image": "https://images.pexels.com/photos/34967991/pexels-photo-34967991.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A small Halloween house decoration on a table",
+						"description": "A board for cheese, meat and candy. Add a few plastic spiders and you have a Halloween dinner. Over 1,400 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0DCK32SXQ?tag=relations0237-20"
+					},
+					{
+						"name": "Table decor: mini posable skeletons",
+						"image": "https://images.pexels.com/photos/8471922/pexels-photo-8471922.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A skeleton standing in a room",
+						"description": "Four small skeletons you can pose on the table, holding your glasses or the candy bowl. Over 2,500 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0B2P1Q713?tag=relations0237-20"
+					}
+				]
+			},
+			{
+				"heading": "Talk like it is your first date",
+				"text": "End the night with a real conversation.",
+				"products": [
+					{
+						"name": "Deep talks: We're Not Really Strangers Couples Edition",
+						"image": "https://images.pexels.com/photos/7234319/pexels-photo-7234319.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+						"alt": "A couple sitting close on a couch",
+						"description": "Question cards that turn a normal night into a deep, funny conversation. Over 2,700 reviews.",
+						"amazonUrl": "https://www.amazon.com/dp/B0B7V56B7H?tag=relations0237-20"
+					}
+				]
+			}
+		],
+		"comparison": {
+			"columns": [
+				"Date idea",
+				"Best for",
+				"Energy"
+			],
+			"rows": [
+				{
+					"label": "Haunted escape room game",
+					"values": [
+						"Teamwork and laughs",
+						"High"
+					]
+				},
+				{
+					"label": "Pumpkin carving",
+					"values": [
+						"Classic Halloween",
+						"Medium"
+					]
+				},
+				{
+					"label": "Horror movie night",
+					"values": [
+						"Cozy and scary",
+						"Low"
+					]
+				},
+				{
+					"label": "Spooky dinner",
+					"values": [
+						"Romantic night in",
+						"Medium"
+					]
+				},
+				{
+					"label": "Couples card game",
+					"values": [
+						"Deep conversation",
+						"Low"
+					]
+				}
+			]
+		},
+		"faq": [
+			{
+				"question": "What can couples do on Halloween at home?",
+				"answer": "Carve pumpkins, play a haunted escape room game, have a horror movie marathon with fun popcorn, or make a spooky dinner with themed drinks."
+			},
+			{
+				"question": "What is a cheap Halloween date idea?",
+				"answer": "A horror movie night with homemade popcorn and a blanket, or pumpkin carving. Both cost very little and feel special."
+			},
+			{
+				"question": "What are fun Halloween activities for couples who don't like horror?",
+				"answer": "A Halloween puzzle, pumpkin carving, baking spooky treats or a cozy movie like a family Halloween classic. Spooky does not have to mean scary."
+			}
+		]
+	},
+	{
 		"title": "Christmas Gifts for Boyfriend: 25 Ideas He Will Actually Use",
 		"slug": "christmas-gifts-for-boyfriend",
 		"category": "gifts-for-him",
