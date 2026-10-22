@@ -45,5 +45,14 @@ Owner: Zakaria (English is not his first language — talk to him in simple Engl
 - Each product: "Label: product name", 2–3 sentence why-he'll-love-it, social proof (review counts), no prices.
 - Every guide has: intro, themed sections, quick comparison table, FAQ (for SEO + FAQ schema).
 
+## Analytics
+- Google Analytics 4: property "Relationship Goals (relationshipgoals.store)" (id 560097432), measurement ID `G-ZRFZXP6XKL`,
+  in Zakaria's GA account. Code: `apps/web/src/lib/analytics.ts` (consent mode v2 tied to the cookie banner:
+  EEA/UK/CH denied until "Analytics" accepted, others granted; ads storage always denied unless "Marketing").
+- Custom event `amazon_click` (params: product, link_place photo/button, page_path) on every Amazon link click.
+  This is the main money metric. Outbound clicks are also on via enhanced measurement.
+- Pin links should carry UTM tags: `?utm_source=pinterest&utm_medium=social&utm_campaign=<guide>&utm_content=<pin-id>`.
+- Hostinger hPanel "Analytics" counts robots (AhrefsBot, scanners) — don't use it for visitor numbers.
+
 ## Known to-dos
 - Email signup and contact forms only show a success message — they are not connected to any email service yet.

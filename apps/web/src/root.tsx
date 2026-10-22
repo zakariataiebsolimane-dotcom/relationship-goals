@@ -9,6 +9,7 @@ import {
 import type { Route } from './+types/root';
 import stylesheet from '@/index.css?url';
 import { siteOrigin } from '@/lib/site-origin.server';
+import { GA_MEASUREMENT_ID, gaInlineScript } from '@/lib/analytics';
 import { HorizonsPreviewScripts } from './horizons-preview-scripts';
 import { SiteHeader } from '@/components/site-header';
 import { SiteFooter } from '@/components/site-footer';
@@ -50,6 +51,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
 				<meta charSet="utf-8" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 				<meta name="p:domain_verify" content="2792b40261618f99710d37614311356d" />
+				<script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`} />
+				<script dangerouslySetInnerHTML={{ __html: gaInlineScript }} />
 				<Meta />
 				<Links />
 				<HorizonsPreviewScripts />
